@@ -6,7 +6,7 @@ require (
 	github.com/DeanThompson/ginpprof v0.0.0-20190408063150-3be636683586
 	github.com/Masterminds/semver/v3 v3.0.2
 	github.com/certifi/gocertifi v0.0.0-20190905060710-a5e0173ced67 // indirect
-	github.com/cnf/structhash v0.0.0-20180104161610-62a607eb0224
+	github.com/cnf/structhash v0.0.0-20201127153200-e1b16c1ebc08
 	github.com/elazarl/go-bindata-assetfs v1.0.1-0.20180223160309-38087fe4dafb
 	github.com/getsentry/raven-go v0.2.0
 	github.com/gin-contrib/cors v1.3.0
